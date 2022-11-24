@@ -17,3 +17,5 @@ To train and test a neural network, download the files of [The MIST Letters data
 
 ### Датасет
 Чтобы обучать и тестировать нейросеть, скачать файлы [The MIST Letters dataset](https://drive.google.com/drive/folders/1eDmxXv-bGOCr58TjkyaM0R2zoOkfFMYb?usp=sharing) и поместите их в папку **resources** проекта.
+
+\
